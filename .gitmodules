@@ -1,0 +1,6 @@
+[submodule "driver_alert_system_zedboard"]
+	path = driver_alert_system_zedboard
+	url = https://github.com/justin-changqi/driver_alert_system_zedboard.git
+[submodule "driver_alert_system_PCB"]
+	path = driver_alert_system_PCB
+	url = https://github.com/justin-changqi/driver_alert_system_PCB.git
